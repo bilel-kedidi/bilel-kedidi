@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilel</h1>
-<h3 align="center">A passionate Backend developer from Tunisia</h3>
+<h3 align="center">A passionate Backend Ruby on Rails developer from Tunisia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilel-kedidi" alt="bilel-kedidi" /></a> </p>
 
